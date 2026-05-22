@@ -5,7 +5,7 @@ import os
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "enter your password",
+    "password": "@*@@)^282206pR",
     "database": "resume_analyze"
 }
 
