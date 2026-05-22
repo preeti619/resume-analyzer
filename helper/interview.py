@@ -6,7 +6,7 @@ import re
 # GROQ API KEY
 # --------------------------------------------------
 
-client = Groq( api_key="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" )
+client = Groq( api_key="enter yours" )
 
 # --------------------------------------------------
 # FALLBACK QUESTIONS
