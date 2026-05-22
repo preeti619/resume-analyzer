@@ -4,7 +4,7 @@ from groq import Groq
 def generate_summary(resume_text):
     try:
         client = Groq(
-            api_key="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" )
+            api_key="enter yours" )
 
         prompt = f"""
         Read this resume and create:
